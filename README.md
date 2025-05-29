@@ -9,9 +9,3 @@
 | **Stage 3** | **Leading with Data**         | Organization is data-driven. Self-service and data culture are in place.           | - Automate new data onboarding  <br>- Build data tools for competitive edge  <br>- Focus on governance and quality  <br>- Deploy data catalogs/lineage tools  <br>- Promote cross-team collaboration | - Complacency after success  <br>- Wasting time on non-impactful tech hobbies                   |
 
 ---
-
-## ✅ One-Line Summary for Each Stage
-
-- **Stage 1:** Focus on foundation and fast value.
-- **Stage 2:** Scale systems and enable efficiency.
-- **Stage 3:** Maximize impact, governance, and collaboration.
